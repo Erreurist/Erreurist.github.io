@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "作业视频"
 permalink: /publications/
 author_profile: true
 ---
@@ -14,3 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<video id="video" controls="" preload="none">
+      <source id="mp4" src="http://Erreurist.github.io/files/1.mp4" type="video/mp4">
+</video> 
