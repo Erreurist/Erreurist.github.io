@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "傅新峰 / 有氧拉丁"
+title                    : "傅新峰 / 王雪晴"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://Erreurist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Erreurist/Erreurist.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "目录栏"
+  name             : "有氧拉丁作业"
   avatar           : "profile.png"
   bio              : "BUAA"
   location         : "中国北京"
