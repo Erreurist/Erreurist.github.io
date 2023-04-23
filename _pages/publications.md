@@ -15,6 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<video id="video" controls="" preload="none" style="width:96%;height:54%;">
+<video id="video" controls="" preload="none" poster="http://Erreurist.github.io/files/1.jpg" style="width:96%;height:54%;">
       <source id="mp4" src="http://Erreurist.github.io/files/1.mp4" type="video/mp4">
 </video> 
