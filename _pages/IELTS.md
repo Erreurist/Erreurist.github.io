@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "OS"
-permalink: /cv/
+title: "IELTS writing material"
+permalink: /IELTS/
 author_profile: true
 redirect_from:
   - /resume

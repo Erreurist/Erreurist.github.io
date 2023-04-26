@@ -3,8 +3,8 @@ main:
   - title: "视频"
     url: /publications/
 
-  - title: "有待开发"
-    url: /talks/    
+  - title: "IELTS"
+    url: /IELTS/
 
   - title: "有待开发"
     url: /teaching/    
@@ -16,4 +16,4 @@ main:
     url: /year-archive/
     
   - title: "OS"
-    url: /cv/
+    url: /OS/
