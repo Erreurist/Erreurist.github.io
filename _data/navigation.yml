@@ -1,19 +1,10 @@
 # main links links
 main:
   - title: "视频"
-    url: /publications/
+    url: /video/
 
   - title: "IELTS"
     url: /IELTS/
-
-  - title: "有待开发"
-    url: /teaching/    
-    
-  - title: "有待开发"
-    url: /portfolio/
-        
-  - title: "有待开发"
-    url: /year-archive/
     
   - title: "OS"
     url: /OS/

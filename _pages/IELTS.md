@@ -9,139 +9,83 @@ redirect_from:
 
 {% include base_path %}
 
-## 名词解释
+[TOC]
+# Education
+## Moral
+instill=inculcate
 
-### 概论
+He makes every effort to **instill** in his pupils this sense of place, and to inculcate in his pupils a pride in their local heritage and their local school.
 
-- 系统调用：在操作系统核心设置的提供给用户的一组用于实现各种系统功能的子程序
-- 特权指令：拥有特殊权限的指令。只用于操作系统或其他系统软件，一般不会给用户使用
+By teaching students how to differentiate between right and wrong, schools can instill in them <u>a sense of empathy, compassion, and respect for others</u>.
 
-### 内存
+The curriculum of colonial schools was **a testimony to** their determination to **instill** these qualities in their children.
 
-- 虚拟存储器：虚拟存储技术是在主存和辅存之间，增加部分软件及必要的硬件支持，使主、辅之间的信息交换、程序的重定位、地址转换都能自动进行，从而主、辅存形成一个有机的整体，这种存储器的概念成为虚拟存储器。
-- 页表：页式存储管理使用的数据结构，主要用于逻辑地址到物理地址的映射。
-- 快表：存在于地址变换机构中的一个由高速寄存器组成的小容量的联想寄存器，构成的一张表
+## Hardworking
+In some cultures, children are often told that they can achieve anything if they try hard enough. What are the advantages and disadvantages of giving children this message?
+### Syc
+hard work, dedication, and perseverance
+### Pros
+instills a sense of confidence and self-esteem
+gain a sense of autonomy
+derive a sense of fulfillment 
+enhance one's quality of life, such as healthcare, education, and leisure activities
+### Cons
+- external factors such as opportunity, privilege, and luck
+economic background, social connections, and access to resources
+- resilient in the face of setbacks and failures
 
-### 进程管理
+## Subjects
+### Science and Technology
+On the other hand, Science and Technology are essential for modern society. Science is responsible for the development of new technologies, medicine, and innovative solutions to the problems that we face today. It is Science that has made modern life possible, from the creation of the internet to the development of vaccines. Without Science and Technology, we would not have the tools to solve the problems we face today, such as climate change or global pandemics.
+### History
+On the one hand, History provides students with a deeper understanding of human behavior, society, and culture. It helps us understand the roots of political, economic, and social systems and how they have changed over time. By studying history, we can learn from past mistakes and understand how to avoid them in the future. For instance, studying the causes of World War II can teach us how to prevent another global conflict. Therefore, History is a crucial subject that helps students develop critical thinking, analytical skills, and a better understanding of their cultural identity.
+### Academic Subjects
+On one hand, supporters of teaching only academic subjects argue that the primary goal of schools is to equip students with the knowledge and skills necessary for their future careers. *In this regard*, academic subjects such as mathematics, science, and language are considered essential for the success of individuals in their chosen fields. Moreover, these subjects help students to develop **critical thinking and problem-solving skills** that are useful beyond the classroom.
 
-- 临界资源：一次仅允许一个进程使用的共享资源。
-- 互斥：指在多道程序环境中，每次只允许一个进程对临界资源进行访问（同步指多个相关进程在执行次序上的协调）
-- 死锁：两个以上的进程相互等待一个永远不可能发生的条件出现，这种僵（两个以上进程相互等待一个不可能发生的情况，这种僵持局面）
-- 进程：进程是进程实体的运行过程，是系统进行资源分配和调度的一个独立单位
-- 临界区：访问临界资源的代码
-- 并行：并发是指若干事件在同一时刻内发生
-- 原语：由若干条机器指令构成，用以完成特定功能的程序，为保证其操作的正确性，它应该是原子操作（由若干条指令所组成，用来实现某个特定的操作。通过一段不可分割的或者不可中断的程序实现其功能）
-- 并发&并行：多个任务在多个处理机上同时运行；多个任务在单处理机或多处理机下分时运行
-- 临界资源&临界区：一个时刻只允许一个进程使用的资源；指访问临界资源的那段程序（由于共享临界资源，必须互斥执行的程序段）
-- 中断屏蔽：中断请求产生之后，系统用软件方式有选择地封锁部分中断而允许其余部分的中断仍能得到响应（中断请求产生之后，系统用软件方式拒绝响应部分中断，接受其余部分的中断）
-- 进程控制块：一个与动态过程相联系的数据结构，记载了进程的外部特性（名字、状态）以及与其他进程的联系（通信关系），还记录了进程所拥有的各种资源。进程控制块是进程存在的标志。
-- 进程调度：从就绪队列中按照一定算法选择进程分配处理机，以实现进程并发（解决CPU分配原则、分配时机、切换方式）
+On the one hand, those who argue that schools should only teach academic subjects **contend** that schools are not responsible for teaching morals and ethics. According to them, parents and other institutions should be the primary source of moral education. Moreover, they argue that academic subjects are the primary reason why students go to school, and schools should focus on providing high-quality education in these areas. In their view, teaching morality and ethics could **detract** from academic excellence and put an additional burden on teachers.
 
-### IO
+### Ethics and Morality
+On the other hand, advocates of teaching **ethics and morality** in schools argue that education is not just about obtaining a career but also about producing responsible citizens. Schools should provide a safe space for students to learn about the social and moral values that are essential for becoming responsible and ethical members of society. By teaching students how to differentiate between right and wrong, schools can instill in them <u>a sense of empathy, compassion, and respect for others</u>.
 
-- 设备无关性：程序可以通过一组统一的操作过程来操作设备，这种操作接口与具体的设备无关
-- 通道：CPU把数据传输功能下放给通道，通道与CPU分时使用内存，实现CPU和外设的并行工作
+On the other hand, proponents of teaching morality and ethics argue that schools should not just focus on academic subjects but also teach students how to think critically and develop a sense of right and wrong. They argue that schools should prepare students to be responsible and ethical citizens, and this should be an integral part of the education system. Moreover, teaching morality and ethics could help students develop a sense of empathy and compassion towards others, which is essential for a **healthy and inclusive** society.
 
-### 磁盘
+In today's world, <u>where there is **a growing sense of divisiveness and intolerance**</u>, **it is imperative** that schools teach students how to think critically and develop a sense of empathy towards others. By doing so, schools can **contribute towards** building a more <u>tolerant, inclusive, and just</u> society.
 
-### 文件
+## Competition and Co-operation
+On the one hand, some people believe that competition is essential for a child's development. They argue that competition teaches children the importance of <u>hard work, perseverance, and determination</u>. When children compete against one another, they learn to push themselves to their limits and strive for excellence. They also develop the ability to handle success and failure, which prepares them for the challenges of adult life. Furthermore, competition can be motivating and inspire children to pursue their goals.
 
-- 文件控制块：文件控制块是操作系统为管理文件而设置的数据结构，存放了为管理文件所需的所有有关信息。文件控制块是文件存在的标志 。文件控制块一般包括的内容：文件名 、文件类型、物理地址、文件大小、最近访问日期、最近修改日期、文件主标识、访问权限。
-- 目录：目录是保存目录结构信息的文件，在目录文件中保存着该目录所包含的目录或文件记录，每个记录包括目录或文件的名字、大小、存储位置、存取权限及其他相关数据项（由文件说明索引组成的用于文件检索的特殊文件，内容主要是文件访问和控制信息）
-- 文件系统：一个负责存取和管理外部存储器上文件信息的机制（操作系统中与文件管理有关的那部分软件和被管理的文件以及实施管理所需要的一些数据结构的总体）
+On the other hand, others argue that cooperation is a more useful skill for children to learn. They believe that cooperation promotes <u>teamwork, communication, and empathy</u>. When children learn to work together, they develop social skills that are necessary for success in any field. They also learn to appreciate the strengths and weaknesses of others, which allows them to **contribute to a group effort** effectively. Moreover, cooperation fosters a sense of community and can lead to more **harmonious** relationships in the future.
 
-## 判断
+# Environment
+## Human activities
+- Habitat loss and degradation: The destruction of natural habitats due to human activities such as **deforestation, land conversion, and urbanization** is a leading cause of species decline. To address this issue, we need to prioritize conservation efforts that focus on preserving critical habitats and ecosystems. Governments, NGOs, and private organizations can work together to create protected areas, restore degraded habitats, and implement sustainable land use practices.
+- Climate change: Changes in temperature and weather patterns due to climate change are affecting plant and animal populations worldwide. To mitigate this problem, we need to reduce greenhouse gas emissions and **implement measures** to adapt to the impacts of climate change. This includes increasing renewable energy use, promoting energy efficiency, and developing climate-resilient agriculture and forestry practices.
+- Overexploitation and hunting: The overexploitation of natural resources and illegal hunting of animals for trade or consumption is driving many species towards extinction. To address this issue, governments need to enforce laws and regulations that protect wildlife, and communities need to be educated about the importance of conserving biodiversity.
+- Pollution: Pollution of air, water, and soil is harmful to plants and animals, and can have long-term impacts on their survival. To reduce pollution, we need to promote the use of cleaner technologies, reduce waste, and implement stricter regulations on industrial and agricultural practices.
 
-- 由于P、V操作描述同步、互斥等问题的能力不足，所以有必要引入其它的通讯原语或机制，如send， receive或Monitor等。	（F）
-- 信号量是只允许由P/V操作进行访问和修改的数据结构。	（T）
-- 在请求页式存储管理中，页面淘汰所花费的时间不属于系统开销。（F）
-- 预防死锁就是破坏死锁存在的某个必要条件。（T）
-- 磁盘是一类典型的字符设备。	（F）
-- 银行家算法是一种避免死锁的算法。（T）
-- 分时系统中，时间片越小越好。（F）
-- 并发是指若干事件在同一时间间隔内发生。（T）
-- 在多道程序系统中，道数越多越好。（F）
-- 打印机是一类典型的字符设备。（T）
-- 用P、V操作可以解决一切互斥与同步问题。（ T ）
-- 同一进程或不同进程内的线程都可以并发执行。（ T ）
-- 采用多道程序设计技术的计算机系统，极大地提高了计算机系统的系统效率，但可能使每个作业的执行时间延长。（ T ）
-- 作业调度的先来先服务算法，按照作业到达的先后次序调度作业，排队等待时间最长的作业被优先调度。（ F ）
-- 采用SPOOLing技术实现的共享设备，在同一时刻可以让多个进程使用它进行I/O。（ F ）
-- 设备独立性（或无关性）是指能独立实现设备共享的一种特性。（ F ）
-- 临界区的执行不能被中断。（F）
-- 资源顺序分配法破坏了死锁发生的循环等待必要条件。（T）
-- 对磁盘进行磁头调度的目的是为了缩短寻道时间。（T）
-- 采用页式存储管理时，重定位的工作是由用户完成的。（F）
-- 与设备相关的中断处理过程由设备驱动程序完成。（T）
-- 一个进程可以涉及一个或若干个程序的执行；反之，同一个程序只可以对应一个进程。	（ F ）
-- 并发是指多个任务在多个处理机上正在同时运行，在微观上看，这些任务是在各自的物理处理机上分别运行。	（ F ）
-- 进程的同步与互斥可以发生在一个进程之中。	（ F ）
-- 中断方式的数据传送是在中断处理时由CPU控制完成的；DMA方式则不经过CPU，而是在DMA控制器的控制下完成的。	（ T ）
-- 动态重定位便于程序浮动，其实现时采用的硬件机构是重定位寄存器和加法器。	（ T ）
+In conclusion, the decline of plants and animals is a complex problem that **requires a comprehensive and collaborative approach**. We need to prioritize conservation efforts, reduce greenhouse gas emissions, enforce laws and regulations, and promote sustainable practices to ensure the long-term survival of our planet's biodiversity.
 
+## Loss of plants and animals
+This loss of biodiversity can have numerous negative effects on ecosystems and the services they provide to humanity. For example, the extinction of **pollinators** <u>such as bees and butterflies</u> can have a significant impact on agriculture and food production. Moreover, the loss of certain species can disrupt ecological balances and lead to the **proliferation** of other species, including pests and invasive species. Finally, the disappearance of species can have cultural and aesthetic impacts, as certain plants and animals may be important to indigenous cultures or provide enjoyment to humans.
 
-## 简答
+## Environmental problems
+However, some people argue that there are more pressing environmental problems that need to be addressed. For example, climate change is a global issue that has **wide-reaching** effects on ecosystems and human societies. Rising temperatures, changing **precipitation** patterns, and extreme weather events can cause droughts, floods, and wildfires, which can devastate habitats and cause food and water shortages. Climate change can also lead to sea-level rise, which can threaten coastal communities and infrastructure. Moreover, climate change can **exacerbate** existing environmental problems, such as air and water pollution, by increasing the frequency and intensity of heatwaves and other extreme weather events.
 
-- 如果普通用户程序可以自行修改页表，会产生什么问题？
-  答案：页表用于完成地址映射。如果用户可以修改页表，那么该用户就可以访问任何地址，从而产生安全问题。
+## Measures to encourage recycling
+The implementation of laws and regulations can be an effective way to increase the amount of waste recycling. Legal requirements can create a sense of obligation and responsibility among individuals and organizations to properly dispose of their waste and promote environmental sustainability.
 
-- 进程与线程之间有何区别？
-  进程是操作系统中并发单元，也是能分得资源的最小单位。线程是在进程内部活动的并发单元，它只是进程行为的一条独立的执行路线，它能使用的资源仅限于它所在的进程范围之内，惟一能通过线程获得的资源就是使用处理机的时间片。有时也把线程称为轻量级进程。（进程是操作系统资源分配调度的单元，包含资源和可执行单元；可执行单元称为线程。线程是进程内部的活动的并发单元，是轻量级（易创建、撤销）的进程）
-- 简述并比较SCAN（扫描）磁盘调度算法与最短寻道时间优先算法。
-  答案：最短寻道时间优先算法选择访问磁道与当前磁头所在磁道距离最近的进程，容易产生饥饿现象。SCAN优先考虑磁头移动方向（按照一个方向移动）。
-- **信号量的物理意义是什么？**
-  信号量的值为正时，表示系统中某类资源的数量；为负时，表示等待进程个数。为零表示等待进程个数为零，同时该资源数量为零
+Additionally, laws can provide incentives for individuals and organizations to recycle, such as financial incentives or tax breaks. This can encourage more people to recycle and make it more cost-effective for businesses to invest in recycling programs.
+
+However, it is important to note that laws alone may not be sufficient to increase recycling rates. Education and awareness campaigns can also play a crucial role in promoting responsible waste management and encouraging individuals and organizations to adopt sustainable practices.
+
+## Laws
+Firstly, laws and regulations can provide a framework for encouraging recycling and can set minimum standards for waste management. For example, governments can mandate recycling targets for businesses and households, establish recycling schemes for specific materials, or require manufacturers to use recycled content in their products. Such regulations can create a level playing field for all stakeholders, prevent free-riders, and ensure that the costs and benefits of waste management are shared fairly.
+
+Secondly, laws can help to change social norms and behaviors regarding waste disposal. By making recycling a legal requirement, governments can raise awareness of the environmental impact of waste and promote the idea that recycling is a civic duty. Laws can also help to overcome the psychological barriers to recycling, such as apathy, inertia, or confusion about what can be recycled, by providing clear and consistent information, education, and feedback to the public.
+
+However, laws alone may not be sufficient to increase recycling rates significantly. There needs to be adequate infrastructure and resources for recycling, including collection, sorting, and processing facilities. Moreover, recycling should be economically viable, and incentives such as tax breaks or subsidies may be needed to encourage businesses and households to invest in recycling infrastructure or purchase recycled products.
 
 
-- 进程实体有哪几部分组成？
-  PCB、程序段和相关的数据段
-
-- 死锁产生的必要条件是什么？
-  互斥条件、请求和保持条件、不剥夺条件和环路等待条件
-
-- 为什么说链接式文件不适合随机存取？
-  访问链接结构文件中的任何一块都要求从文件的第一块开始向后顺序访问，直到找到要访问的那一块，因此，链式结构文件不适合于随机存取。
-
-- 分页存储管理有效解决了什么问题？
-  分页存储管理有效解决了程序离散存放和存储器内碎片的问题，提高了存储器的利用率。
-
-- **何谓缓冲区？为什么要引入缓冲？**
-  缓冲区是使用专用硬件缓冲器或在内存中划出一个区域用来暂时存放输入/输出数据的地方。
-  引入缓冲是为了匹配外设和CPU之间的处理速度，减少中断次数和CPU的中断处理时间。
-
-
-- **DMA方式与中断方式有何不同？**DMA在所要求传送的一批数据全部传送结束时中断CPU；中断在每个数据传送完后中断CPU。
-
-  DMA在DMA控制器下完成数据传送；中断在中断处理时在CPU控制下完成
-
-- **什么是重定位？如何实现程序运行时的动态重定位？**
-  所谓重定位是把作业的地址空间中的相对地址转换成内存空间的物理地址的调整过程。
-  在程序实际运行前，由操作系统把程序在内存的开始地址送入重定位寄存器；在程序运行期间，凡遇到访问内存的操作，就由硬件机制自动把用户程序的相对地址加上重定位寄存器的内容，相加之和就是实际访问内存的有效地址。
-
-
-- **进程的含义是什么？如何构造和描述进程？**
-  进程是程序的一次执行。进程由“进程控制块+程序+数据”构成，用进程控制块描述进程。
-
-- **什么是死锁？产生死锁的必要条件是什么？** 
-  死锁：两个以上的进程相互等待一个永远不可能发生的条件，这种僵持的局面成为死锁。
-  死锁产生的必要条件：互斥条件；不剥夺条件；请求和保持条件；循环等待条件。
-
-
-- **什么是开中断？什么是关中断？**
-  尽管产生了中断源和发出了中断请求，但CPU内部的处理机状态字的中断允许位已被清除，从而不允许CPU响应中断，这种情况称为关中断。
-  CPU禁止中断后只有等到处理机状态字的中断允许位被重新设置后才能接收中断，处理机状态位的设置被称为开中断。
-- **分页存储管理中有哪几种常用的页面置换算法？**
-  先进先出(FIFO)；
-  最近最少使用淘汰算法(LRU)；
-  最近不经常使用淘汰算法(LFU)；
-  最优算法(OPT)
-- 磁盘调度算法SCAN和SSTF？SCAN按照一个方向访问到最远，再反向访问到最远；SSTF每次访问最近的
-- 实时系统&分时系统？实时系统通常是一个专用系统，具有高响应速度和高可靠性；分时系统通常面向多个用   户，对用户响应及时，让每个用户都有独占系统的感觉。实时系统对响应时间的要求比分时系统要高，交互功能没有分时系统强。
-- 段页式存储管理的基本原理？结合分段和分页的原理，先将用户程序分为若干段，每段再分为若干页。为了实现逻辑地址到物理地址的转换，需同时配置段表和页表。段表内容包括页表起始地址和页表长度。
-- 设备管理的主要功能？提供设备管理程序和进程管理系统的接口；进行设备分配；实现设备和设备、设备和CPU之间的并行操作；进行缓冲区管理
-- 文件的物理结构？常见的文件物理组织？文件记录在文件管理系统内部采用的、与物理存储介质特性相适应的方式，是为系统使用的。顺序文件结构、随机文件结构、串联文件。
-- RAID 0、1、0+1、1+0？RAID 0条带化存储，无冗余。RAID 1普通存储，镜像冗余。RAID 0+1先条带化再镜像。RAID 1+0先镜像再条带化。
-- 五项操作系统进程管理的主要活动？进程的创建与撤销；进程的阻塞与唤醒；提供进程的通信机制；提供进程的同步机制；预防与解决死锁
 
 
 

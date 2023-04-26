@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "作业视频"
-permalink: /publications/
+permalink: /video/
 author_profile: true
 ---
 
