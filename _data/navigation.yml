@@ -2,9 +2,6 @@
 main:
   - title: "视频"
     url: /video/
-
-  - title: "IELTS"
-    url: /IELTS/
     
   - title: "OS"
     url: /OS/
