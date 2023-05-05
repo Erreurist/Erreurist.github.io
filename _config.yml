@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erreurist"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "Erreurist"
 description              : &description "personal description"
